@@ -1,2 +1,20 @@
-# Lumina-Dining
-Lumina Dining is a premium, fully responsive restaurant website featuring an elegant dark design with gold accents. It includes interactive menus, table reservations, online ordering, and a visual gallery, delivering a modern experience that helps restaurants increase reservations, customer engagement, and online sales.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/452f031c-3ffa-4938-9700-7f80aeadbf7b
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
